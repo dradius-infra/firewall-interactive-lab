@@ -73,5 +73,5 @@ Launch the engine directly in your terminal:
 ```
 
 * Use numeric keys `1`, `2`, `3` to make immediate triage decisions.
-* Press `H` when available to access the targeted protocol dossier (initiates an 8-second countdown).
+* Press `H` when available to access the targeted protocol dossier (initiates an 10-second countdown).
 * Press `Ctrl+C` at any time to abort the session.
