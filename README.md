@@ -31,7 +31,7 @@ The lab contains **67 technical modules** split into three rigorous operational 
   * **Checkpoint 2 (Stage 41):** Unlocked upon clearing Escalation #4.
   * **Soft Resets:** System integrity failures roll back to the active checkpoint, restoring the exact metric baseline and reshuffling remaining modules.
   * **Hard Reset:** Total failure prior to Stage 21 wipes session metrics back to Stage 1.
-* **On-Demand Intel Dossier:** In-line field manual accessible with `H`, bound to an active 8-second emergency countdown timer.
+* **On-Demand Intel Dossier:** In-line field manual accessible with `H`, bound to an active 10-second emergency countdown timer.
 
 ---
 
