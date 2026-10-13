@@ -1,4 +1,4 @@
-# Firewall Interactive Lab: Hybrid Ops Engine (Sysadmin Edition)
+# Firewall Interactive Lab
 
 A high-intensity, terminal-native interactive evaluation engine designed to build deep, production-grade mental models for **Stateful Packet Inspection (SPI)**, **Linux Netfilter pipelines**, and **RouterOS firewall architectures**.
 
